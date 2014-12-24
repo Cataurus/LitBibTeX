@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Delphi Temp
+*.~*
+
 # =========================
 # Operating System Files
 # =========================
