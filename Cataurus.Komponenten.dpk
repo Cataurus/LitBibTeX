@@ -1,0 +1,43 @@
+package Cataurus.Komponenten;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS ON}
+{$RANGECHECKS ON}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  dbrtl,
+  dsnap,
+  vcl;
+
+contains
+  Cataurus.Komponenten.BibTeXDataSet in 'Source\Cataurus\Komponenten\Cataurus.Komponenten.BibTeXDataSet.pas',
+  Cataurus.BibTeX.Types in 'Source\Cataurus\BibTeX\Cataurus.BibTeX.Types.pas',
+  Cataurus.BibTeX.Utils in 'Source\Cataurus\BibTeX\Cataurus.BibTeX.Utils.pas',
+  Cataurus.Komponenten.BibTeXDataSet.DlgBibTeXOption in 'Source\Cataurus\Komponenten\Cataurus.Komponenten.BibTeXDataSet.DlgBibTeXOption.pas' {frDlgBibTeX},
+  Cataurus.Allgemein.StrUtils in 'Source\Cataurus\Allgemein\Cataurus.Allgemein.StrUtils.pas';
+
+end.

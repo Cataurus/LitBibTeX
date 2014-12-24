@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.195,=dbrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\Komponenten\Cataurus.Komponenten.BibTeXDataSet.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\BibTeX\Cataurus.BibTeX.Utils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,=dsnap.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\Allgemein\Cataurus.Allgemein.StrUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\Package1.dproj=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Cataurus.Komponenten.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\BibTeX\Cataurus.BibTeX.Types.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\Komponenten\Cataurus.Komponenten.BibTeXDataSet.DlgBibTeXOption.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\Komponenten\Cataurus.Komponenten.BibTeXDataSet.DlgBibTeXOption.dfm=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

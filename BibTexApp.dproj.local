@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.343,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\FastMM4Messages.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\BibTexDataSet.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.dfm=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\dlgExportOptionenForBib.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\allgemein.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus.StrUtils.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\BibTexDataSet.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\dlgExportOptionenForBib.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\Unit1.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\BibTex.Utils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\BibTex.Types.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\allgemein.dfm=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\FastMM4Options.inc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\Project1.dproj=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\BibTexApp.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\Cataurus\Allgemein\Cataurus.Allgemein.StrUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Source\FastMM4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.169,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,=D:\Benutzer\Catau_000\Documents\Embarcadero\Studio\Projekte\BibTexApp\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

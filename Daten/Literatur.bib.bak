@@ -1,0 +1,651 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Conference{Astroh1998,
+  Title                    = {Epistomology of Architecture},
+  Author                   = {Michael Astroh},
+  Booktitle                = {Architecture and Teaching},
+  Year                     = {1998},
+
+  Address                  = {Lausanne},
+  Pages                    = {43-62}
+}
+
+@Book{Bordieu2012,
+  Title                    = {Entwurf einer Theorie der Praxis : auf der ethnologischen Grundlage
+der kabylischen Gesellschaft},
+  Author                   = {Bourdieu, Pierre},
+  Publisher                = {Suhrkamp},
+  Year                     = {2012},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {3. Aufl.},
+  Series                   = {Suhrkamp-Taschenbuch Wissenschaft ; 291},
+
+  Pages                    = {493 S.}
+}
+
+@Book{Brentano1874,
+  Title                    = {Psychologie vom empirischen Standpunkte},
+  Author                   = {Brentano, Franz},
+  Publisher                = {Duncker \& Humblot},
+  Year                     = {1874},
+
+  Address                  = {Leipzig},
+  Series                   = {Psychologie vom empirischen Standpunkte ; Bd. 1},
+  Volume                   = {1}
+}
+
+@Book{Burckhardt1994,
+  Title                    = {Metamorphosen von Raum und Zeit : eine Geschichte der Wahrnehmung},
+  Author                   = {Burckhardt, Martin},
+  Publisher                = {Campus-Verl.},
+  Year                     = {1994},
+
+  Address                  = {Frankfurt am Main [u.a.]}
+}
+
+@Book{Canetti1995,
+  Title                    = {Masse und Macht},
+  Author                   = {Canetti, Elias},
+  Publisher                = {Fischer-Taschenbuch-Verl.},
+  Year                     = {1995},
+
+  Address                  = {Frankfurt am Main}
+}
+
+@Book{Durkheim1994,
+  Title                    = {Die elementaren Formen des religiösen Lebens},
+  Author                   = {Durkheim, Emile},
+  Publisher                = {Suhrkamp},
+  Year                     = {1994},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {1. Aufl.},
+  Note                     = {Aus dem Franz. übers.},
+  Series                   = {Suhrkamp-Taschenbuch Wissenschaft ; 1125},
+
+  Pages                    = {604 S.}
+}
+
+@Book{Durkheim1996,
+  Title                    = {Über soziale Arbeitsteilung : Studie über die Organisation höherer Gesellschaften. Mit einer Einleitung von Niklas Luhmann \glqq Arbeitsteilung und Moral\grqq \ , Durkheims Theorie. Mit einem Nachwort von Hans-Peter Müller und Michael Schmid Arbeitsteilung, Solidaritïät und Moral, eine werkgeschichtliche und systematische Einführung in die \glqq Arbeitsteilung\grqq \ von Emile Durkheim},
+  Author                   = {Durkheim, Émile},
+  Publisher                = {Suhrkamp},
+  Year                     = {1996},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {2nd}
+}
+
+@Book{Elias1999,
+  Title                    = {Die höfische Gesellschaft : Untersuchungen zur Soziologie des Königtums und der höfischen Aristokratie ; mit einer Einleitung: Soziologie und Geschichtswissenschaft},
+  Author                   = {Elias, Norbert},
+  Publisher                = {Suhrkamp},
+  Year                     = {1999},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {9th}
+}
+
+@Book{Ernst2011,
+  Title                    = {Einführung in die Erkenntnistheorie},
+  Author                   = {Ernst, Gerhard},
+  Publisher                = {WBG, Wiss. Buchges.},
+  Year                     = {2011},
+
+  Address                  = {Darmstadt},
+  Edition                  = {3., durchges. Aufl.},
+  Note                     = {Literaturverz. S. [156] - 165},
+  Series                   = {Einführungen Philosophie},
+
+  Pages                    = {167 S.}
+}
+
+@Book{Feyerabend1984,
+  Title                    = {Wissenschaft als Kunst},
+  Author                   = {Feyerabend, Paul},
+  Publisher                = {Suhrkamp},
+  Year                     = {1984},
+
+  Address                  = {Frankfurt am Main}
+}
+
+@Book{Fisher2010,
+  Title                    = {Schwarmintelligenz : wie einfache Regeln Großes möglich machen},
+  Author                   = {Fisher, Len},
+  Publisher                = {Eichborn},
+  Year                     = {2010},
+
+  Address                  = {Frankfurt am Main}
+}
+
+@Book{Foellesdal1988,
+  Title                    = {Rationale Argumentation : ein Grundkurs in Argumentations- und Wissenschaftsheorie},
+  Author                   = {Foellesdal, Dagfinn and Walloee, Lars and Elster, Jon},
+  Publisher                = {de Gruyter},
+  Year                     = {1988},
+
+  Address                  = {Berlin [u.a.]},
+  Series                   = {De-Gruyter-Studienbuch : Grundlagen der Kommunikation}
+}
+
+@Book{Freud1999,
+  Title                    = {Jenseits des Lustprinzips. Massenpsychologie und Ich-Analyse. Das Ich und das Es},
+  Author                   = {Freud, Sigmund},
+  Publisher                = {Fischer},
+  Year                     = {1999},
+
+  Address                  = {Frankfurt am Main},
+  Series                   = {Gesammelte Werke / chronologisch geordnet ; Bd. 13},
+  Volume                   = {13}
+}
+
+@Book{Funke2004,
+  Title                    = {Rezeptionstheorie, Rezeptionsästhetik : Betrachtungen eines deutsch-deutschen Diskurses},
+  Author                   = {Funke, Mandy},
+  Publisher                = {Aisthesis-Verl.},
+  Year                     = {2004},
+
+  Address                  = {Bielefeld},
+
+  Pages                    = {201 S.}
+}
+
+@Book{Geisler1978,
+  Title                    = {Psychologie für Architekten : eine Einführung in die architekturpsychologische Denk- und Arbeitsweise},
+  Author                   = {Geisler, Eduard},
+  Publisher                = {DVA},
+  Year                     = {1978},
+
+  Address                  = {Stuttgart},
+  Series                   = {Grundlagen der Architekturplanung}
+}
+
+@Book{Giddens1995a,
+  Title                    = {The constitution of society : outline of the theory of
+structuration},
+  Author                   = {Giddens, Anthony},
+  Publisher                = {Polity Press},
+  Year                     = {1995},
+
+  Address                  = {Cambridge},
+  Note                     = {Literaturverz. S. 379-391},
+
+  Pages                    = {XXXVII, 402 S}
+}
+
+@Book{Giddens1995b,
+  Title                    = {A contemporary critique of historical materialism},
+  Author                   = {Giddens, Anthony},
+  Publisher                = {Macmillan Press},
+  Year                     = {1995},
+
+  Address                  = {Basingstoke [u.a.]},
+  Edition                  = {2. ed},
+  Note                     = {Previous ed.: published as A contemporary critique of historical
+materialism, vol.1 Power, property and the State, 1981},
+
+  Pages                    = {XIX, 294 S}
+}
+
+@Book{Giedionc2008,
+  Title                    = {Space, time and architecture : the growth of a new tradition},
+  Author                   = {Giedion, S.},
+  Publisher                = {Harvard University Press},
+  Year                     = {2008},
+
+  Address                  = {Cambridge, Mass.},
+  Edition                  = {5th ed., rev. and enl.}
+}
+
+@Book{Goldberger2009,
+  Title                    = {Why architecture matters},
+  Author                   = {Goldberger, Paul},
+  Publisher                = {Yale Univ. Press},
+  Year                     = {2009},
+
+  Address                  = {New Haven, Conn. [u.a.]},
+
+  Pages                    = {.}
+}
+
+@Book{Gruetter1987,
+  Title                    = {Ästhetik der Architektur : Grundlagen der Architektur-Wahrnehmung},
+  Author                   = {Grütter, Jörg Kurt},
+  Publisher                = {Kohlhammer},
+  Year                     = {1987},
+
+  Address                  = {Stuttgart [u.a.]},
+  Series                   = {Architektur}
+}
+
+@Book{Hennermann2006,
+  Title                    = {Kartographie und GIS : eine Einfï¿½hrung},
+  Author                   = {Hennermann, Karl},
+  Publisher                = {Wiss. Buchges.},
+  Year                     = {2006},
+
+  Address                  = {Darmstadt}
+}
+
+@PhdThesis{Hilgers1997,
+  Title                    = {Artefakt und empirische Sozialforschung : Genese und Analyse der
+Kritik},
+  Author                   = {Hilgers, Andrea},
+  School                   = {Zugl.: Hamburg, Univ., Diss., 1994 u.d.T.: Hilgers, Andrea:
+Artefaktforschung und empirische Sozialforschung},
+  Year                     = {1997},
+
+  Address                  = {Berlin}
+}
+
+@Book{Hillier1996,
+  Title                    = {Space is the machine: a configurational theory of architecture},
+  Author                   = {Bill Hillier},
+  Publisher                = {Cambridge Univ. Press},
+  Year                     = {1996},
+
+  Address                  = {Cambridge [u.a.]},
+
+  ISBN                     = {052156039X and 052157039X},
+  Keywords                 = {Raum; Architektur; Architekturtheorie; Gesellschaft; },
+  Url                      = {http://katalog.suub.uni-bremen.de/DB=1/LNG=DU/CMD?ACT=SRCHA&amp;IKT=8000&amp;TRM=25208488*}
+}
+
+@Book{Hillier1984,
+  Title                    = {The social logic of space},
+  Author                   = {Hillier, Bill and Hanson, Julienne},
+  Publisher                = {Cambridge University Press},
+  Year                     = {1984},
+
+  Address                  = {Cambridge},
+
+  Added-at                 = {2008-07-13T11:15:48.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/226d6eb4e0a3824d93e68c1ac579e8961/snauth},
+  Interhash                = {2433c1371d2b3cd041a1474c211b3521},
+  Intrahash                = {26d6eb4e0a3824d93e68c1ac579e8961},
+  Keywords                 = {imported}
+}
+
+@Book{Holenstein2004,
+  Title                    = {Philosophie-Atlas : Orte und Wege des Denkens},
+  Author                   = {Holenstein, Elmar},
+  Publisher                = {Ammann},
+  Year                     = {2004},
+
+  Address                  = {Zürich},
+  Edition                  = {3rd}
+}
+
+@Book{Husserl1999,
+  Title                    = {Erfahrung und Urteil : Untersuchungen zur Genealogie der Logik},
+  Author                   = {Husserl, Edmund},
+  Publisher                = {Meiner},
+  Year                     = {1999},
+
+  Address                  = {Hamburg},
+  Edition                  = {7. Aufl.},
+  Series                   = {Philosophische Bibliothek ; 280},
+
+  Pages                    = {XXVIII, 492 S.}
+}
+
+@Book{Husserl1992,
+  Title                    = {Gesammelte Schriften : Text nach Husserliana XIX/1},
+  Author                   = {Husserl, Edmund},
+  Publisher                = {Meiner},
+  Year                     = {1992},
+
+  Address                  = {Hamburg},
+  Series                   = {Gesammelte Schriften},
+  Volume                   = {3 = 2, 1}
+}
+
+@Book{Husserl1992a,
+  Title                    = {Gesammelte Schriften : Text nach Husserliana XIX/2},
+  Author                   = {Husserl, Edmund},
+  Publisher                = {Meiner},
+  Year                     = {1992},
+
+  Address                  = {Hamburg},
+  Series                   = {Gesammelte Schriften},
+  Volume                   = {4 = 2, 2}
+}
+
+@Book{Husserl1954,
+  Title                    = {Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie : eine Einleitung in die phänomenologische Philosophie},
+  Author                   = {Husserl, Edmund},
+  Publisher                = {Nijhoff},
+  Year                     = {1954},
+
+  Address                  = {Den Haag},
+  Series                   = {Husserliana / gesammelte Werke ; Bd. 6},
+  Volume                   = {6}
+}
+
+@Book{Jansen2012,
+  Title                    = {An introduction to kinetic Monte Carlo simulations of surface reactions},
+  Author                   = {Jansen, A. P. J.},
+  Publisher                = {Springer},
+  Year                     = {2012},
+
+  Address                  = {Heidelberg [u.a.]},
+  Series                   = {Lecture notes in physics ; 856}
+}
+
+@Book{Levi-Strauss1997,
+  Title                    = {Strukturale Anthropologie},
+  Author                   = {Lévi-Strauss, Claude},
+  Publisher                = {Suhrkamp},
+  Year                     = {1997},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {1st},
+  Series                   = {Strukturale Anthropologie ; 1},
+  Volume                   = {1}
+}
+
+@Book{Levi-Strauss1991,
+  Title                    = {Das wilde Denken},
+  Author                   = {Lévi-Strauss, Claude},
+  Publisher                = {Suhrkamp},
+  Year                     = {1991},
+
+  Address                  = {Frankfurt am Main},
+  Edition                  = {8. Aufl},
+  Series                   = {Suhrkamp-Taschenbuch Wissenschaft ; 14},
+
+  Pages                    = {333 S}
+}
+
+@Book{Loew2008,
+  Title                    = {Einführung in die Stadt- und Raumsoziologie},
+  Author                   = {Löw, Martina and Steets, Silke and Stoetzer, Sergej},
+  Publisher                = {Budrich},
+  Year                     = {2008},
+
+  Address                  = {Opladen [u.a.]},
+  Edition                  = {2nd}
+}
+
+@Book{Mueller-Gronbach2012,
+  Title                    = {Monte Carlo-Algorithmen},
+  Author                   = {Mï¿½ller-Gronbach, Thomas and Novak, Erich and Ritter, Klaus},
+  Publisher                = {Springer},
+  Year                     = {2012},
+
+  Address                  = {Berlin [u.a.]}
+}
+
+@Book{Piaget1967,
+  Title                    = {The child's conception of space},
+  Author                   = {Piaget, Jean},
+  Publisher                = {W. W. Norton},
+  Year                     = {1967},
+
+  Address                  = {New York},
+  Note                     = {Translation of La répresentation de l'espace chez l'enfant},
+  Series                   = {The Norton library, no. 408},
+
+  Pages                    = {xii, 490 p}
+}
+
+@Book{Pietersma2000,
+  Title                    = {Phenomenological Epistemology},
+  Author                   = {Henry Pietersma},
+  Year                     = {2000},
+
+  Address                  = {Oxford}
+}
+
+@Book{Pisarik2007,
+  Title                    = {Architektur wahrnehmen},
+  Author                   = {Pisarik, Sonja},
+  Publisher                = {Architekturzentrum Wien},
+  Year                     = {2007},
+
+  Address                  = {Wien},
+  Series                   = {Hintergrund ; 35.2007}
+}
+
+@Book{Quine1979,
+  Title                    = {Von einem logischen Standpunkt : neun logisch-philosophische
+Essays},
+  Author                   = {Quine, Willard VanOrman},
+  Publisher                = {Ullstein},
+  Year                     = {1979},
+
+  Address                  = {Frankfurt/M. [u.a.]},
+  Edition                  = {Dt. Erstausg.},
+  Note                     = {Literaturverz. S. 181 - 185},
+  Series                   = {Ullstein-Buch ; 35010 : Ullstein-Materialien},
+
+  Pages                    = {190 S.}
+}
+
+@Article{Ratti2004,
+  Title                    = {Urban texture and space syntax: some inconsistencies},
+  Author                   = {Ratti, Carlo},
+  Journal                  = {Environment and Planning B: Planning and Design},
+  Year                     = {2004},
+  Pages                    = {487 - 499},
+  Volume                   = {31}
+}
+
+@PhdThesis{Rogge1973,
+  Title                    = {Architektur als Kommunikationsmittel : eine Untersuchung ideeller Aneignung baulich-räumlicher Umwelt unter informationellem, semiotischem und psychologischem Gesichtspunkt},
+  Author                   = {Rogge, Friedrich and Weber, Olaf and Zimmermann, Gerd},
+  School                   = {Weimar, Hochsch. für Architektur und Bauwesen, Diss., 1973},
+  Year                     = {1973}
+}
+
+@Book{Schneider1995,
+  Title                    = {Sinn und Un-Sinn : Umwelt sinnlich erlebbar gestalten in Architektur und Design},
+  Author                   = {Schneider, Wulf},
+  Publisher                = {Konradin-Verl.},
+  Year                     = {1995},
+
+  Address                  = {Leinfelden-Echterdingem},
+  Edition                  = {2nd}
+}
+
+@Book{Schueling1979,
+  Title                    = {Erkenntnistheorie},
+  Author                   = {H. Schüling},
+  Year                     = {1979},
+
+  Address                  = {Giessen}
+}
+
+@Book{Searle1995,
+  Title                    = {The Construction of Social Reality},
+  Author                   = {John R. Searle},
+  Year                     = {1995},
+
+  Address                  = {New York}
+}
+
+@Book{Seeley2010,
+  Title                    = {Honeybee democracy},
+  Author                   = {Seeley, Thomas D.},
+  Publisher                = {Princeton Univ. Press},
+  Year                     = {2010},
+
+  Address                  = {Princeton [u.a.]}
+}
+
+@Book{Shapiroc2005,
+  Title                    = {A space syntax analysis of Arroyo Hondo Pueblo, New Mexico : community formation in the northern Rio Grande},
+  Author                   = {Shapiro, Jason S.},
+  Publisher                = {School of American Research Press},
+  Year                     = {2005},
+
+  Address                  = {Santa Fe, N.M},
+  Series                   = {Arroyo Hondo archaeological series ; 9}
+}
+
+@Book{Short1996,
+  Title                    = {The Urban Order. An Introduction to Cities, Cultue, and Power},
+  Author                   = {Short, J. R.},
+  Year                     = {1996},
+
+  Address                  = {Oxford}
+}
+
+@Book{Smith1977,
+  Title                    = {The Syntax of Cities},
+  Author                   = {Peter F. Smith},
+  Year                     = {1977},
+
+  Address                  = {London}
+}
+
+@Book{Woelfflin1999,
+  Title                    = {Prolegomena zu einer Psychologie der Architektur},
+  Author                   = {Wölfflin, Heinrich},
+  Publisher                = {Gebr. Mann},
+  Year                     = {1999},
+
+  Address                  = {Berlin},
+  Series                   = {Edition ars et architectura}
+}
+
+@Book{Wolfram1992,
+  Title                    = {Mathematica : ein System fï¿½r Mathematik auf dem Computer},
+  Author                   = {Wolfram, Stephen},
+  Publisher                = {Addison-Wesley},
+  Year                     = {1992},
+
+  Address                  = {Bonn [u.a.]},
+  Edition                  = {2nd}
+}
+
+@Proceedings{Baisch2013,
+  Title                    = {Wie gebannt : ï¿½sthetische Verfahren der affektiven Bindung von Aufmerksamkeit},
+  Year                     = {2013},
+
+  Address                  = {Freiburg im Breisgau [u.a.]},
+  Editor                   = {Baisch, Martin and Degen, Andreas and Lï¿½dtke, Jana}
+}
+
+@Book{Clarke1977,
+  Title                    = {Spatial archaeology},
+  Editor                   = {David L. Clarke},
+  Year                     = {1977},
+
+  Address                  = {London}
+}
+
+@Proceedings{Dirlewanger1975,
+  Title                    = {Kolloquium Psychologie und Bauen, Vorträge und Diskussionen : (Symposion Psychologie and Architecture; Reports and Discussions)},
+  Year                     = {1975},
+
+  Address                  = {Stuttgart},
+  Editor                   = {Dirlewanger, Heinz},
+  Publisher                = {SFB 64}
+}
+
+@Book{Douglas1973,
+  Title                    = {Rules and meanings : the anthropology of everyday knowledge ;
+selected readings},
+  Editor                   = {Mary Douglas},
+  Publisher                = {Penguin Education},
+  Year                     = {1973},
+
+  Address                  = {Harmondsworth},
+  Series                   = {Penguin modern sociology readings},
+
+  Pages                    = {319 S}
+}
+
+@Proceedings{London1977,
+  Title                    = {The evolution of social systems : proceedings of a meeting of the
+Research Seminar in Archaeology and Related Subjects held at the Institute of
+Archaeology, London University},
+  Year                     = {1977},
+
+  Address                  = {London},
+  Editor                   = {J. Friedman and M. J. Rowlands},
+  Publisher                = {Duckworth}
+}
+
+@Book{Hilpert1988,
+  Title                    = {Le Corbusiers \glqq Charta von Athen\grqq : Texte und Dokumente},
+  Editor                   = {Thilo Hilpert},
+  Publisher                = {Vieweg},
+  Year                     = {1988},
+
+  Address                  = {Braunschweig [u.a.]},
+  Edition                  = {2nd},
+  Series                   = {Bauwelt-Fundamente ; 56 : Städtebau, Urbanistik ; 1}
+}
+
+@Book{Hodder1978,
+  Title                    = {The spatial organisation of culture},
+  Editor                   = {Ian Hodder},
+  Year                     = {1978},
+
+  Address                  = {London}
+}
+
+@Book{Koengeter1996,
+  Title                    = {Wahrnehmung in Architektur und Stadtplanung},
+  Editor                   = {Koengeter, Bernd},
+  Publisher                = {IRB-Verl.},
+  Year                     = {1996},
+
+  Address                  = {Stuttgart},
+  Series                   = {IRB-Literaturauslese plus ; 7238}
+}
+
+@Book{2011,
+  Title                    = {Masterplan Gesundheitswirtschaft
+Mecklenburg-Vorpommern 2020},
+  Editor                   = {Ministerium für Wirtschaft, Arbeit und Tourismus Mecklenburg-Vorpommern},
+  Year                     = {2011},
+
+  Address                  = {Greifswald/Rostock}
+}
+
+@Proceedings{Nes2005a,
+  Title                    = {Space Syntax 5th International Symposium},
+  Year                     = {2005},
+
+  Address                  = {Delft},
+  Editor                   = {van Nes, Akkelies},
+  Publisher                = {Techne Press}
+}
+
+@Book{Ucko1972,
+  Title                    = {Man, settlement and urbanism : proceedings of a meeting of the Research Seminar in Archaeology and Related Subjects held at the Institute of Archaeology, London University},
+  Editor                   = {Peter J. Ucko, Ruth Tringham and G. W. Dimbleby},
+  Year                     = {1972},
+
+  Address                  = {London}
+}
+
+@Book{Richter2004,
+  Title                    = {Architekturpsychologie : eine Einführung},
+  Editor                   = {Richter, Peter G.},
+  Publisher                = {Pabst Science Publ.},
+  Year                     = {2004},
+
+  Address                  = {Lengerich [u.a.]}
+}
+
+@Book{,
+  Owner                    = {Catau_000},
+  Timestamp                = {2014.11.03}
+}
+
+@Book{2009,
+  Title                    = {ArcGIS 9 : das deutschsprachige Handbuch fï¿½r ArcView und ArcEditor ; mit zahlreichen ï¿½bungsbeispielen und Gutschein fï¿½r die ESRI Evaluation DVD in der aktuellen Programmversion},
+  Publisher                = {Wichmann},
+  Year                     = {2009},
+
+  Address                  = {Heidelberg},
+  Note                     = {Spï¿½tere Ausg. u.d.T.: ArcGIS 10}
+}
+

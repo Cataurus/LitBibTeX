@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{06FB0BA9-20AE-4521-89DE-77BAF821B0F8}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Cataurus.Komponenten.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="BibTexApp.dproj">
+            <Dependencies>Cataurus.Komponenten.dproj</Dependencies>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Cataurus_Komponenten">
+        <MSBuild Projects="Cataurus.Komponenten.dproj"/>
+    </Target>
+    <Target Name="Cataurus_Komponenten:Clean">
+        <MSBuild Projects="Cataurus.Komponenten.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Cataurus_Komponenten:Make">
+        <MSBuild Projects="Cataurus.Komponenten.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="BibTexApp" DependsOnTargets="Cataurus.Komponenten">
+        <MSBuild Projects="BibTexApp.dproj"/>
+    </Target>
+    <Target Name="BibTexApp:Clean" DependsOnTargets="Cataurus.Komponenten:Clean">
+        <MSBuild Projects="BibTexApp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BibTexApp:Make" DependsOnTargets="Cataurus.Komponenten:Make">
+        <MSBuild Projects="BibTexApp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Cataurus_Komponenten;BibTexApp"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Cataurus_Komponenten:Clean;BibTexApp:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Cataurus_Komponenten:Make;BibTexApp:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
